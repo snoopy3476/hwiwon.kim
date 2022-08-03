@@ -71,7 +71,8 @@
 &lt;p>The quick brown fox jumps over the lazy dog.&lt;br />
 THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.&lt;/p>
 &lt;ul>
-&lt;li>Time String Automatic Conversion (&lt;a href="/assets/js/timeAutoconv.min.js">timeAutoconv.min.js&lt;/a>), based on the browser timezone&lt;/li>
+&lt;li>Time String Automatic Conversion
+&lt;a href="https://hwiwon.kim/assets/js/timeAutoconv.js">timeAutoconv.js&lt;/a>, based on the browser timezone&lt;/li>
 &lt;/ul>
 &lt;p>※ The left time string is converted to the right automatically:&lt;br />
 &amp;quot;2022-01-09T00:00:00+00:00&amp;quot; ▶ &amp;quot;&lt;time datetime="2022-01-09T00:00:00+00:00"
