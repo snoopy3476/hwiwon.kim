@@ -1,0 +1,1 @@
+for(let e of document.getElementsByClassName("time-autoconv"))e.textContent=new Intl.DateTimeFormat(void 0,{dateStyle:e.getAttribute("data-datestyle")||void 0,timeStyle:e.getAttribute("data-timestyle")||void 0}).format(new Date(e.getAttribute("datetime")))
